@@ -15,7 +15,10 @@ def long_planeteer_calls
     assorted_words = ("two", "go", "industrious", "bop")
 end
 
-def find_the_cheese# code an argument here
-  # the array below is here to help
-  cheese_types = ["cheddar", "gouda", "camembert"]
+def find_the_cheese
+  when "returns the first element of the array that is cheese" do
+  when "returns nil if the array does not contain a type of cheese" do
+    snacks = ["crackers", "gouda", "thyme"]
+    soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
+    cheese_types = ["cheddar", "gouda", "camembert"]
 end
