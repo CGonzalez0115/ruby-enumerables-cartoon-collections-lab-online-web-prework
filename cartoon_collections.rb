@@ -10,7 +10,7 @@ end
 
 def long_planeteer_calls
   when"returns true if any calls are longer than 4 characters" do
-  when  "returns false if all calls are 4 characters or less" do  
+  when  "returns false if all calls are 4 characters or less" do
     short_words = ("puff", "go", "two")
     assorted_words = ("two", "go", "industrious", "bop")
 end
